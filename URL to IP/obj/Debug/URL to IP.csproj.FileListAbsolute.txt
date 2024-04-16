@@ -1,0 +1,11 @@
+D:\USB\INFO\C#\URL to IP\bin\Debug\URL to IP.exe.config
+D:\USB\INFO\C#\URL to IP\bin\Debug\URL to IP.exe
+D:\USB\INFO\C#\URL to IP\bin\Debug\URL to IP.pdb
+D:\USB\INFO\C#\URL to IP\obj\Debug\URL to IP.csproj.AssemblyReference.cache
+D:\USB\INFO\C#\URL to IP\obj\Debug\URL to IP.csproj.SuggestedBindingRedirects.cache
+D:\USB\INFO\C#\URL to IP\obj\Debug\URL_to_IP.Form1.resources
+D:\USB\INFO\C#\URL to IP\obj\Debug\URL_to_IP.Properties.Resources.resources
+D:\USB\INFO\C#\URL to IP\obj\Debug\URL to IP.csproj.GenerateResource.cache
+D:\USB\INFO\C#\URL to IP\obj\Debug\URL to IP.csproj.CoreCompileInputs.cache
+D:\USB\INFO\C#\URL to IP\obj\Debug\URL to IP.exe
+D:\USB\INFO\C#\URL to IP\obj\Debug\URL to IP.pdb
